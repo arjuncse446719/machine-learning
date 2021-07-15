@@ -5,5 +5,10 @@ hi arjun
 adding one line
 
 
+<<<<<<< HEAD
 dfhgdj
 
+=======
+
+added one more 
+>>>>>>> 82b5bf9a39ed46314d953b789cc427e007a4b9f2
